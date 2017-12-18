@@ -17,7 +17,7 @@ Serious productivity hacker. Python and Java enthusiast.
 
 ## teaching_materials
 
-###BSc
+### BSc
 
 - [Programming Theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zdmRra3ZHWkkzVkk).
 - [Programming Lab](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zdjJLVmdoVkJUN2M).
@@ -28,7 +28,7 @@ Serious productivity hacker. Python and Java enthusiast.
 - [Software Engineering Theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zWk9FY1lFLXdWVTg).
 - [Information Security Theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zT3JmNmhhMjQ0Ylk).
 
-###MSc
+### MSc
 
 - [Advanced Networking Theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zZXowbjhTWkRwMVk).
 - [Machine Translation](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zQ3FnSjJrZDdEUTA).
@@ -36,7 +36,7 @@ Serious productivity hacker. Python and Java enthusiast.
 
 ## publications
 
-###Peer Reviewed Conferences
+### Peer Reviewed Conferences
 
 2015
 
@@ -82,7 +82,7 @@ Rushdi Shams and Adel Elsayed, "Development of A Conceptual Structure for a Doma
 
 Isnain Siddique, Rushdi Shams, and MMA Hashem, "Performance Enhancement of Ad Hoc Networks with Janitor Based Routing", 1st IEEE International Conference on Computer and Communication Engineering (ICCCE'06), Kuala Lumpur, Malaysia, May 9-11, 2006, vol. 1, pp. 368-373.
 
-Journals
+### Journals
 
 2015
 
