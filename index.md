@@ -1,4 +1,4 @@
-## rushdi_shams
+## about_me
 
 I have over 8 years' experience for natural language processing (NLP), information retrieval (IR) and information extraction (IE) related tasks using machine learning.
 
@@ -17,22 +17,28 @@ Serious productivity hacker. Python and Java enthusiast.
 
 ## teaching_materials
 
-### machine learning and technology tutorials
+if you are a teacher who is not a student in class, feel free to use the materials with some acknowledgements.
+if you are a student who is not teaching in class, feel free to use the materials without any acknowledgements.
 
-- [My YouTube channel](http://www.youtube.com/c/rushdishams)
+if you are visiting this website, then most probably i won't add you on facebook. 
+instead, let's get connected on [linked in](https://www.linkedin.com/in/rushdishams/).
 
-### BSc
+### machine_learning / technology_tutorials
 
-- [Programming Theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zdmRra3ZHWkkzVkk).
-- [Programming Lab](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zdjJLVmdoVkJUN2M).
-- [Database Theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zWTRhc2ZBaHVIeFU).
-- [Database Lab](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zRDVGWXd4YmdJVEk).
-- [AI Theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zYlp5b1JKbnA4ZXM).
-- [AI Lab](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zTU1lRW12M29zNWc).
-- [Software Engineering Theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zWk9FY1lFLXdWVTg).
-- [Information Security Theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zT3JmNmhhMjQ0Ylk).
+- [my YouTube channel](http://www.youtube.com/c/rushdishams)
 
-### MSc
+### undergraduate_courses
+
+- [programming theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zdmRra3ZHWkkzVkk).
+- [programming lab](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zdjJLVmdoVkJUN2M).
+- [database theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zWTRhc2ZBaHVIeFU).
+- [database lab](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zRDVGWXd4YmdJVEk).
+- [ai theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zYlp5b1JKbnA4ZXM).
+- [ai lab](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zTU1lRW12M29zNWc).
+- [software engineering theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zWk9FY1lFLXdWVTg).
+- [information security theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zT3JmNmhhMjQ0Ylk).
+
+### msc_courses
 
 - [Advanced Networking Theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zZXowbjhTWkRwMVk).
 - [Machine Translation](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zQ3FnSjJrZDdEUTA).
