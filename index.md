@@ -36,7 +36,7 @@ Serious productivity hacker. Python and Java enthusiast.
 
 ## publications
 
-### Peer Reviewed Conferences
+### conferences
 
 2015
 
@@ -82,7 +82,7 @@ Rushdi Shams and Adel Elsayed, "Development of A Conceptual Structure for a Doma
 
 Isnain Siddique, Rushdi Shams, and MMA Hashem, "Performance Enhancement of Ad Hoc Networks with Janitor Based Routing", 1st IEEE International Conference on Computer and Communication Engineering (ICCCE'06), Kuala Lumpur, Malaysia, May 9-11, 2006, vol. 1, pp. 368-373.
 
-### Journals
+### journals
 
 2015
 
