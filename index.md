@@ -18,6 +18,7 @@ Serious productivity hacker. Python and Java enthusiast.
 ## teaching_materials
 
 if you are a teacher who is not a student in class, feel free to use the materials with some acknowledgements.
+
 if you are a student who is not teaching in class, feel free to use the materials without any acknowledgements.
 
 if you are visiting this website, then most probably i won't add you on facebook. 
