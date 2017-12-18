@@ -1,6 +1,6 @@
 ## rushdi_shams
 
-I have over 8 years' of experience for natural language processing (NLP), information retrieval (IR) and information extraction (IE) related tasks using machine learning.
+I have over 8 years' experience for natural language processing (NLP), information retrieval (IR) and information extraction (IE) related tasks using machine learning.
 
 I always have the goal to bring in efficiency and effectiveness in the business process that deals with these problems.
 
@@ -16,6 +16,10 @@ Serious productivity hacker. Python and Java enthusiast.
 - Assistant Professor at KUET, Bangladesh (03/2008 to 08/2010)
 
 ## teaching_materials
+
+### machine learning and technology tutorials
+
+- [My YouTube channel](http://www.youtube.com/c/rushdishams)
 
 ### BSc
 
