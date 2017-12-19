@@ -10,7 +10,7 @@ Serious productivity hacker. Python and Java enthusiast.
 
 - Sr. Machine Learning Engineer at OneClass, Canada (09/2017 to present)
 - NLP Research Scientist at Botco.ai, USA (07/2017 to 09/2017)
-- Digital Innovation Specialist at Sustainalytics,  (03/2015 to 06/2017)
+- Digital Innovation Specialist at Sustainalytics, Canada (03/2015 to 06/2017)
 - Text Analytics Researcher at Western University, Canada (09/2014 to 03/2015)
 - Research and Teaching Assistant at Western University, Canada (09/2010 to 08/2014)
 - Assistant Professor at KUET, Bangladesh (03/2008 to 08/2010)
