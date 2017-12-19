@@ -6,6 +6,19 @@ I always have the goal to bring in efficiency and effectiveness in the business 
 
 Serious productivity hacker. Python and Java enthusiast.
 
+surprisingly, i have a book named [java data science cookbook](https://www.packtpub.com/big-data-and-business-intelligence/java-data-science-cookbook)!
+
+based on the book, udemy has a [course](https://www.udemy.com/java-data-science-solutions-big-data-and-visualization/) as well!
+
+most probably i won't add you on facebook if you fulfil the following criteria:
+
+1. i don't know you at all.
+2. you are a student of >= 2k5 batch in KUET and you are not in canada and not a faculty member of KUET.
+
+this is because i don't want to share each other's personal lives.
+ 
+no worries, let's get connected on a professional platform then- [linked in](https://www.linkedin.com/in/rushdishams/).
+
 ## work_experience
 
 - Sr. Machine Learning Engineer at OneClass, Canada (09/2017 to present)
@@ -21,8 +34,6 @@ if you are a teacher who is not a student in class, feel free to use the materia
 
 if you are a student who is not teaching in class, feel free to use the materials without any acknowledgements.
 
-if you are visiting this website, then most probably i won't add you on facebook. 
-instead, let's get connected on [linked in](https://www.linkedin.com/in/rushdishams/).
 
 ### machine_learning / technology_tutorials
 
