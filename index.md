@@ -1,10 +1,10 @@
 ## about_me
 
-I have over 8 years' experience for natural language processing (NLP), information retrieval (IR) and information extraction (IE) related tasks using machine learning.
+i have over 8 years' experience for natural language processing (NLP), information retrieval (IR) and information extraction (IE) related tasks using machine learning.
 
-I always have the goal to bring in efficiency and effectiveness in the business process that deals with these problems.
+i always have the goal to bring in efficiency and effectiveness in the business process that deals with these problems.
 
-Serious productivity hacker. Python and Java enthusiast.
+serious productivity hacker. Python and Java enthusiast.
 
 surprisingly, i have a book named [java data science cookbook](https://www.packtpub.com/big-data-and-business-intelligence/java-data-science-cookbook)!
 
@@ -21,12 +21,12 @@ no worries, let's get connected on a professional platform then- [linked in](htt
 
 ## work_experience
 
-- Sr. Machine Learning Engineer at OneClass, Canada (09/2017 to present)
-- NLP Research Scientist at Botco.ai, USA (07/2017 to 09/2017)
-- Digital Innovation Specialist at Sustainalytics, Canada (03/2015 to 06/2017)
-- Text Analytics Researcher at Western University, Canada (09/2014 to 03/2015)
-- Research and Teaching Assistant at Western University, Canada (09/2010 to 08/2014)
-- Assistant Professor at KUET, Bangladesh (03/2008 to 08/2010)
+- sr. machine learning engineer at oneclass, canada (09/2017 to present)
+- NLP research scientist at botco.ai, u.s.a. (07/2017 to 09/2017)
+- digital innovation specialist at sustainalytics, canada (03/2015 to 06/2017)
+- text analytics researcher at western university, canada (09/2014 to 03/2015)
+- research and teaching assistant at western university, canada (09/2010 to 08/2014)
+- assistant professor at KUET, bangladesh (03/2008 to 08/2010)
 
 ## teaching_materials
 
@@ -117,3 +117,7 @@ Rushdi Shams , M.S.A. Shahnawaz Chowdhury, and S.M. Abu Saleh Shawon, "SenCept: 
 2010
 
 Rushdi Shams , Adel Elsayed, and Quazi Mah- Zereen Akter, "A Corpus-based Evaluation of a Domain-specific Text to Knowledge Mapping Prototype", Journal of Computers, Academy Publisher, Vol. 5, No. 1, ISSN 1796-203X, 2010.
+
+## contact
+
+rushdecoder{<[at]>}gmail{<[dot]>}com
