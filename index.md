@@ -1,19 +1,17 @@
 ## about_me
 
-i have over 8 years' experience for natural language processing (NLP), information retrieval (IR) and information extraction (IE) related tasks using machine learning.
-
-i always have the goal to bring in efficiency and effectiveness in the business process that deals with these problems.
+in charge of research and development of machine-learning based natural language processing (nlp) solutions. 
 
 serious productivity hacker. Python and Java enthusiast.
 
-surprisingly, i have a book named [java data science cookbook](https://www.packtpub.com/big-data-and-business-intelligence/java-data-science-cookbook)!
+very much interested in photography and archaeology.
 
-based on the book, udemy has a [course](https://www.udemy.com/java-data-science-solutions-big-data-and-visualization/) as well!
+surprisingly (or not), i have a book named [java data science cookbook](https://www.packtpub.com/big-data-and-business-intelligence/java-data-science-cookbook)! based on which, udemy has a [course](https://www.udemy.com/java-data-science-solutions-big-data-and-visualization/) as well!
 
-most probably i won't add you on facebook if you fulfil the following criteria:
+most probably i won't add you on facebook if you fall in the following criteria:
 
 1. i don't know you at all.
-2. you are a student of >= 2k5 batch in KUET and you are not in canada and not a faculty member of KUET.
+2. you are a student of >= 2k5 batch in KUET and you are (not in canada or not a faculty member of KUET).
 
 this is because i don't want to share each other's personal lives.
  
@@ -21,8 +19,8 @@ no worries, let's get connected on a professional platform then- [linked in](htt
 
 ## work_experience
 
-- sr. machine learning engineer at oneclass, canada (09/2017 to present)
-- NLP research scientist at botco.ai, u.s.a. (07/2017 to 09/2017)
+- senior machine learning engineer at oneclass, canada (09/2017 to present)
+- nlp research scientist at botco.ai, u.s.a. (07/2017 to 09/2017)
 - digital innovation specialist at sustainalytics, canada (03/2015 to 06/2017)
 - text analytics researcher at western university, canada (09/2014 to 03/2015)
 - research and teaching assistant at western university, canada (09/2010 to 08/2014)
