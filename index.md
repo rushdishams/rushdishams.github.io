@@ -8,14 +8,7 @@ very much interested in photography and archaeology.
 
 surprisingly (or not), i have a book named [java data science cookbook](https://www.packtpub.com/big-data-and-business-intelligence/java-data-science-cookbook)! based on which, udemy has a [course](https://www.udemy.com/java-data-science-solutions-big-data-and-visualization/) as well!
 
-most probably i won't add you on facebook if you fall in the following criteria:
-
-1. i don't know you at all.
-2. you are a student of >= 2k5 batch in KUET and you are (not in canada or not a faculty member of KUET).
-
-this is because i don't want to share each other's personal lives.
- 
-no worries, let's get connected on a professional platform then- [linked in](https://www.linkedin.com/in/rushdishams/).
+i am very selective about adding people in my Facebook and any other social media platform. so, please don't get upset if you do not get any response. but, no worries, let's get connected on a professional platform like- [linked in](https://www.linkedin.com/in/rushdishams/).
 
 ## work_experience
 
@@ -28,9 +21,7 @@ no worries, let's get connected on a professional platform then- [linked in](htt
 
 ## teaching_materials
 
-if you are a teacher who is not a student in class, feel free to use the materials with some acknowledgements.
-
-if you are a student who is not teaching in class, feel free to use the materials without any acknowledgements.
+if you would like to use my teaching materials to learn, feel free to use them. if you would like to use them to teach or take a few items from them, you need to acknowledge my effort in your class and please email me so that i know that they are becoming popular.
 
 
 ### machine_learning / technology_tutorials
@@ -48,7 +39,7 @@ if you are a student who is not teaching in class, feel free to use the material
 - [ai theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zYlp5b1JKbnA4ZXM).
 - [ai lab](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zTU1lRW12M29zNWc).
 
-### msc_courses
+### master's courses
 
 - [Advanced Networking Theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zZXowbjhTWkRwMVk).
 - [Machine Translation](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zQ3FnSjJrZDdEUTA).
