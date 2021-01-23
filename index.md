@@ -2,6 +2,8 @@
 
 in charge of research and development of machine-learning based natural language processing (nlp) solutions. 
 
+i also write science fiction stories. Ebaiza Machine is my first published book. [find more here](https://rushdishams.github.io/ebaiza_machine).
+
 serious productivity hacker. Python and Java enthusiast.
 
 very much interested in photography and archaeology.
