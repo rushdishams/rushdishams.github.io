@@ -8,7 +8,7 @@
 
 ## প্রিবুকিং লিঙ্কঃ
 
-![ইবাইজা মেশিন](https://github.com/rushdishams/rushdishams.github.io/blob/master/Ibaija%20Machine~2.jpg?raw=true)
+![ইবাইজা মেশিন](Ibaija%20Machine~2.jpg?raw=true)
 
 ### লেখক পরিচিতি
 
