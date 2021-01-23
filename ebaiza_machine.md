@@ -8,7 +8,7 @@
 
 ## প্রিবুকিং লিঙ্কঃ
 
-![ইবাইজা মেশিন](Ibaija%20Machine~2.jpg?raw=true)
+![ইবাইজা মেশিন](_planet.jpg?raw=true)
 
 ### লেখক পরিচিতি
 
