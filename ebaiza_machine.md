@@ -8,7 +8,7 @@
 
 ### প্রিবুকিং লিঙ্ক
 
-![ইবাইজা মেশিন](planet.jpg)
+<a href="https://www.facebook.com/shamsrushdi/videos/778100412913424/" target="_blank"><img src="planet.jpg" width=640 height=480></a>
 
 ### লেখক পরিচিতি
 
