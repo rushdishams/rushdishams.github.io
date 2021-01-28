@@ -8,6 +8,9 @@
 
 ### প্রিবুকিং লিঙ্ক
 
+শীঘ্রই আসছে।
+
+### টিজার ট্রেইলার
 <a href="https://www.facebook.com/shamsrushdi/videos/778100412913424/" target="_blank"><img src="planet.jpg" width=640 height=480></a>
 
 ### লেখক পরিচিতি
