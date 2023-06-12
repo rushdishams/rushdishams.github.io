@@ -61,7 +61,7 @@ If you would like to use my teaching materials to learn, feel free to use them. 
 
 - [Learn with Rushdi](http://www.youtube.com/c/rushdishams)
 
-### Undergrad Courses
+### BSc Courses
 
 - [Software Engineering Theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zWk9FY1lFLXdWVTg).
 - [Information Security Theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zT3JmNmhhMjQ0Ylk).
@@ -72,7 +72,7 @@ If you would like to use my teaching materials to learn, feel free to use them. 
 - [AI Theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zYlp5b1JKbnA4ZXM).
 - [AI Lab](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zTU1lRW12M29zNWc).
 
-### master's courses
+### MSc courses
 
 - [Advanced Networking Theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zZXowbjhTWkRwMVk).
 - [Machine Translation Theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zQ3FnSjJrZDdEUTA).
