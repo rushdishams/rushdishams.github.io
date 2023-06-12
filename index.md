@@ -2,34 +2,41 @@
 
 I am a data scientist passionate about supporting companies and customers that want to leverage AI/ML to enlighten peoples' lives using on-premise infrastructure or public cloud services. I have been successful in my roles since I am curious to work backwards with problems and communicate ideas, suggestions, and best practices clearly and in a timely manner. The uniqueness about me and my characteristics is that I practice emotional intelligence at work in addition to my combined strength coming from both academia and industry.
 
-Programming Languages:
+
+**Programming Languages:**
+
 Python | SQL | Java | GitHub and Bitbucket as version control
 
-Cloud (AWS):
+**Cloud (AWS):**
+
 Sage Maker | Personalize | Translate | Transcribe | Comprehend | Forecast | DynamoDB | Redshift | Glue | Athena | S3 | Lambda | Step Function | Quick sight | Code commit CI/CD.
 
-NLP Skills:
+**NLP Skills:**
+
 ChatGPT API | Information Retrieval | Search/Ranking | Summarization | Keyword Extraction | Topic Modeling | Concept Mining | NLG
 
-Machine Learning Skills:
+**Machine Learning Skills:**
+
 Naive Bayes | Decision Tree | XG Boost | Gradient Boost | Random Forest | SVM | KNN | K-means | CRF | Alternating Least Square (ALS) | Frequent-Pattern Mining | Association Rule Mining | LSTM | CNN | RNN | Word2Vec | Doc2Vec | Fast Text | BERT-based models.
 
-Selected Libraries:
+**Selected Libraries:**
+
 PyTorch | Keras | TensorFlow | Gensim | Pandas | Scikit-Learn | PySpark | SparkML | Seaborn | NumPy | SciPy | NLTK | Spacy | TextBlob | OpenNLP | Matplotlib | Crème | Python Language Tools | DBPedia Spotlight | Core NLP | Open C | HuggingFace.
 
-Database:
+**Database:**
+
 MySQL | Postgres | NoSQL.
 
 ## Textbook
 
 - [Java Data Science Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/java-data-science-cookbook)
-- Udemy has a [course] based on the book as well (https://www.udemy.com/java-data-science-solutions-big-data-and-visualization/).
+- [Udemy Course] (https://www.udemy.com/java-data-science-solutions-big-data-and-visualization/) based on the book
 
 ## Science Fictions
 
-- Ebaiza Machine, Somoy Prokashon, 2021 [ইবাইজা মেশিন] (https://www.rokomari.com/book/210905/ebiza-machine)
-- Phoenix Protocol, Somoy Prokashon, 2022 [ফিনিক্স প্রটোকল] (https://www.rokomari.com/book/226167/phoenix-protocol)
-- Dhongshojatra, Somoy Prokashon, 2023 [ধ্বংসযাত্রা] (https://www.rokomari.com/book/285187/dhwongshojatra)
+- [Ebaiza Machine (ইবাইজা মেশিন), Somoy Prokashon, 2021] (https://www.rokomari.com/book/210905/ebiza-machine)
+- [Phoenix Protocol (ফিনিক্স প্রটোকল), Somoy Prokashon, 2022](https://www.rokomari.com/book/226167/phoenix-protocol)
+- [Dhongshojatra (ধ্বংসযাত্রা), Somoy Prokashon, 2023](https://www.rokomari.com/book/285187/dhwongshojatra)
 
 ## Social Networks
 
