@@ -5,36 +5,36 @@ I am a data scientist passionate about supporting companies and customers that w
 
 **Programming Languages:**
 
-Python | SQL | Java | GitHub and Bitbucket as version control
+Python / SQL / Java / GitHub and Bitbucket as version control
 
 **Cloud (AWS):**
 
-Sage Maker | Personalize | Translate | Transcribe | Comprehend | Forecast | DynamoDB | Redshift | Glue | Athena | S3 | Lambda | Step Function | Quick sight | Code commit CI/CD.
+Sage Maker / Personalize / Translate / Transcribe / Comprehend / Forecast / DynamoDB / Redshift / Glue / Athena / S3 / Lambda / Step Function / Quick sight / Code commit CI/CD.
 
 **NLP Skills:**
 
-ChatGPT API | Information Retrieval | Search/Ranking | Summarization | Keyword Extraction | Topic Modeling | Concept Mining | NLG
+ChatGPT API / Information Retrieval / Search/Ranking / Summarization / Keyword Extraction / Topic Modeling / Concept Mining / NLG
 
 **Machine Learning Skills:**
 
-Naive Bayes | Decision Tree | XG Boost | Gradient Boost | Random Forest | SVM | KNN | K-means | CRF | Alternating Least Square (ALS) | Frequent-Pattern Mining | Association Rule Mining | LSTM | CNN | RNN | Word2Vec | Doc2Vec | Fast Text | BERT-based models.
+Naive Bayes / Decision Tree / XG Boost / Gradient Boost / Random Forest / SVM / KNN / K-means / CRF / Alternating Least Square (ALS) / Frequent-Pattern Mining / Association Rule Mining / LSTM / CNN / RNN / Word2Vec / Doc2Vec / Fast Text / BERT-based models.
 
 **Selected Libraries:**
 
-PyTorch | Keras | TensorFlow | Gensim | Pandas | Scikit-Learn | PySpark | SparkML | Seaborn | NumPy | SciPy | NLTK | Spacy | TextBlob | OpenNLP | Matplotlib | Crème | Python Language Tools | DBPedia Spotlight | Core NLP | Open C | HuggingFace.
+PyTorch / Keras / TensorFlow / Gensim / Pandas / Scikit-Learn / PySpark / SparkML / Seaborn / NumPy / SciPy / NLTK / Spacy / TextBlob / OpenNLP / Matplotlib / Crème / Python Language Tools / DBPedia Spotlight / Core NLP / Open C / HuggingFace.
 
 **Database:**
 
-MySQL | Postgres | NoSQL.
+MySQL / Postgres / NoSQL.
 
 ## Textbook
 
 - [Java Data Science Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/java-data-science-cookbook)
-- [Udemy Course] (https://www.udemy.com/java-data-science-solutions-big-data-and-visualization/) based on the book
+- [Udemy Course based on the book](https://www.udemy.com/java-data-science-solutions-big-data-and-visualization/)
 
 ## Science Fictions
 
-- [Ebaiza Machine (ইবাইজা মেশিন), Somoy Prokashon, 2021] (https://www.rokomari.com/book/210905/ebiza-machine)
+- [Ebaiza Machine (ইবাইজা মেশিন), Somoy Prokashon, 2021](https://www.rokomari.com/book/210905/ebiza-machine)
 - [Phoenix Protocol (ফিনিক্স প্রটোকল), Somoy Prokashon, 2022](https://www.rokomari.com/book/226167/phoenix-protocol)
 - [Dhongshojatra (ধ্বংসযাত্রা), Somoy Prokashon, 2023](https://www.rokomari.com/book/285187/dhwongshojatra)
 
