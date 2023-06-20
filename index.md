@@ -72,19 +72,19 @@ If you would like to use my teaching materials to learn, feel free to use them. 
 
 ### BSc Courses
 
-- [Software Engineering Theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zWk9FY1lFLXdWVTg).
-- [Information Security Theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zT3JmNmhhMjQ0Ylk).
-- [Programming Theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zdmRra3ZHWkkzVkk).
-- [Programming Lab](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zdjJLVmdoVkJUN2M).
-- [Database Theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zWTRhc2ZBaHVIeFU).
-- [Database Lab](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zRDVGWXd4YmdJVEk).
-- [AI Theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zYlp5b1JKbnA4ZXM).
-- [AI Lab](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zTU1lRW12M29zNWc).
+- [Software Engineering Theory](https://drive.google.com/drive/folders/0B6KVHn8DHG4zWk9FY1lFLXdWVTg?resourcekey=0-XoV-UOxe8QRctK9hnqVXUA&usp=drive_link).
+- [Information Security Theory](https://drive.google.com/drive/folders/0B6KVHn8DHG4zT3JmNmhhMjQ0Ylk?resourcekey=0-VMg8fiosatj8UBWe0uzTlA&usp=drive_link).
+- [Programming Theory](https://drive.google.com/drive/folders/0B6KVHn8DHG4zdmRra3ZHWkkzVkk?resourcekey=0-iD9BIX0rbag-9C3jHZs1cA&usp=drive_link).
+- [Programming Lab](https://drive.google.com/drive/folders/0B6KVHn8DHG4zdjJLVmdoVkJUN2M?resourcekey=0-oMqWtFuQ8_shzwU2PlY0nQ&usp=drive_link).
+- [Database Theory](https://drive.google.com/drive/folders/0B6KVHn8DHG4zWTRhc2ZBaHVIeFU?resourcekey=0-wgVERpsrpPaF55n3uiZWeQ&usp=drive_link).
+- [Database Lab](https://drive.google.com/drive/folders/0B6KVHn8DHG4zRDVGWXd4YmdJVEk?resourcekey=0-vFlVrmRoIl0KZ0INnlheoQ&usp=drive_link).
+- [AI Theory](https://drive.google.com/drive/folders/0B6KVHn8DHG4zYlp5b1JKbnA4ZXM?resourcekey=0--ed6fZtYgH75pTEYClEkZw&usp=drive_link).
+- [AI Lab](https://drive.google.com/drive/folders/0B6KVHn8DHG4zTU1lRW12M29zNWc?resourcekey=0-wyiJu7euZa3hh2Uaiio2Og&usp=drive_link).
 
 ### MSc courses
 
-- [Advanced Networking Theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zZXowbjhTWkRwMVk).
-- [Machine Translation Theory](https://drive.google.com/drive/u/0/folders/0B6KVHn8DHG4zQ3FnSjJrZDdEUTA).
+- [Advanced Networking Theory](https://drive.google.com/drive/folders/0B6KVHn8DHG4zZXowbjhTWkRwMVk?resourcekey=0-i0GC7k4gn7Z2zDg9-ZYpgA&usp=drive_link).
+- [Machine Translation Theory](https://drive.google.com/drive/folders/0B6KVHn8DHG4zQ3FnSjJrZDdEUTA?resourcekey=0-J-VfyqoXdbofdPiRsQfuIg&usp=drive_link).
 
 
 ## Publications
