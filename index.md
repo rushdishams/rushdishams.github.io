@@ -40,11 +40,16 @@ MySQL / Postgres / NoSQL.
 
 ## Digital Presence
 
-[LinkedIn](https://www.linkedin.com/in/rushdishams/).
+[LinkedIn](https://www.linkedin.com/in/rushdishams/)
+
 [Google Scholar](https://scholar.google.com/citations?user=wFtI_DoAAAAJ&hl=en)
+
 [YouTube Channel](http://www.youtube.com/c/rushdishams)
+
 [Github](https//github.com/rushdishams)
+
 [Goodreads Author](https://www.goodreads.com/author/show/21246028._)
+
 
 ## Work Experience
 
