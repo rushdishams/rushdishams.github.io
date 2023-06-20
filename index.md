@@ -1,6 +1,6 @@
 ## Summary
 
-I am a data scientist passionate about supporting companies and customers that want to leverage AI/ML to enlighten peoples' lives using on-premise infrastructure or public cloud services. I have been successful in my roles since I am curious to work backwards with problems and communicate ideas, suggestions, and best practices clearly and in a timely manner. The uniqueness about me and my characteristics is that I practice emotional intelligence at work in addition to my combined strength coming from both academia and industry.
+I am a Machine Learning Engineer/ Data Scientist, who is passionate about supporting companies and customers that want to leverage AI/ML to enlighten peoples' lives using on-premise infrastructure or public cloud services. I have been successful in my roles since I am curious to work backwards with problems and communicate ideas, suggestions, and best practices clearly and in a timely manner. The uniqueness about me and my characteristics is that I practice emotional intelligence at work in addition to my combined strength coming from both academia and industry.
 
 
 **Programming Languages:**
@@ -38,9 +38,13 @@ MySQL / Postgres / NoSQL.
 - [Phoenix Protocol (ফিনিক্স প্রটোকল), Somoy Prokashon, 2022](https://www.rokomari.com/book/226167/phoenix-protocol)
 - [Dhongshojatra (ধ্বংসযাত্রা), Somoy Prokashon, 2023](https://www.rokomari.com/book/285187/dhwongshojatra)
 
-## Social Networks
+## Digital Presence
 
 [LinkedIn](https://www.linkedin.com/in/rushdishams/).
+[Google Scholar](https://scholar.google.com/citations?user=wFtI_DoAAAAJ&hl=en)
+[YouTube Channel](http://www.youtube.com/c/rushdishams)
+[Github](https//github.com/rushdishams)
+[Goodreads Author](https://www.goodreads.com/author/show/21246028._)
 
 ## Work Experience
 
